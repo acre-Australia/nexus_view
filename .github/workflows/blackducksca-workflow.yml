@@ -10,5 +10,5 @@ permissions:
   security-events: write
 jobs:
   scan:
-    uses: acre-Australia/.github-private/.github/workflows/_blackducksca.yml@3c3600089c0ed4662058ac3660dde583a083db1a
+    uses: acre-Australia/.github-private/.github/workflows/_blackducksca.yml@413eca89aa9d48381fe9c36ddd509d4ebed26cd0
     secrets: inherit
